@@ -1,0 +1,3 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (FunctionsEx.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Source.cpp
+  Functions.vcxproj -> C:\Users\s188047\source\repos\IntroCppDevynW\x64\Debug\Functions.exe
